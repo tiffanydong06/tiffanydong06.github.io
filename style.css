@@ -5,3 +5,7 @@ html {
 body {
     background: antiquewhite;
 }
+div {
+    font-size: x-large;
+    font-family:'Courier New',monospace;
+}
